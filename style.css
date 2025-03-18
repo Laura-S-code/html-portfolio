@@ -1,0 +1,27 @@
+h1 {
+ font-size: 2em;
+ font-style: bold;
+ text-align: center;
+ color: #134340
+}
+h2 {
+ font-size: 1.5em;
+ font-style: bold;
+ text-align: center;
+ color: #134340
+}
+html {
+ background-color: #dcdfd6;
+}
+div {
+    display: inline-block;
+}
+a {
+    color: #7c8c76
+}
+.welcome {
+    text-align: center;
+    color: #134340;
+    font-size: 1.5em;
+
+}
